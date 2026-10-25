@@ -1,6 +1,6 @@
 package synchronize;
 
-public class hiloSynchronized2 {
+public class HiloSynchronized1 {
      static class Timbre{
         public void timbre(){
             System.out.print("Ding...");
